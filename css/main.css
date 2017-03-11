@@ -1,0 +1,17 @@
+header {
+	background-color: orange;
+}
+
+.card {
+	border: 1px solid lightgray;
+	margin-bottom: 20px;
+	margin-top: 10px;
+}
+
+.card-image {
+	width: 100%;
+}
+
+.card-desc {
+	margin-left: 15px;
+}
